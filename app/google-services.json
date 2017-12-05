@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1073070799255",
+    "firebase_url": "https://hygiene-tong.firebaseio.com",
+    "project_id": "hygiene-tong",
+    "storage_bucket": "hygiene-tong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073070799255:android:25fd574c7b2f45e0",
+        "android_client_info": {
+          "package_name": "com.tong.hygiene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073070799255-kkvjm8q56fkjpd9ci9vi5b1ukbc4er5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQACsXZ37onh4AtAgA6n9XqL8CcWrTzeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
